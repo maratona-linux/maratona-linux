@@ -1,12 +1,16 @@
 [submodule "maratona-meta"]
 	path = maratona-meta
 	url = git@github.com:maratona-linux/maratona-meta.git
+	branch = master
 [submodule "maratona-firewall"]
 	path = maratona-firewall
 	url = git@github.com:maratona-linux/maratona-firewall.git
+	branch = master
 [submodule "maratona-background"]
 	path = maratona-background
 	url = git@github.com:maratona-linux/maratona-background.git
+	branch = master
 [submodule "maratona-submission"]
 	path = maratona-submission
 	url = git@github.com:maratona-linux/maratona-submission.git
+	branch = master
