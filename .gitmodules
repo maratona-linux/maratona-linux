@@ -14,3 +14,7 @@
 	path = maratona-submission
 	url = git@github.com:maratona-linux/maratona-submission.git
 	branch = master
+[submodule "maratona-team-tools"]
+	path = maratona-team-tools
+	url = git@github.com:maratona-linux/maratona-team-tools.git
+	branch = master
