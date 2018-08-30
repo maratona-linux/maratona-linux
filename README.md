@@ -12,3 +12,37 @@ you may just
 git clone --recurse-submodules https://github.com/maratona-linux/maratona-linux.git
 ```
 
+## Installing Maratona Linux Packages
+
+If you want to install Maratona Linux packages on top of a Ubuntu 18.04, you
+may use our public ppa repositories by simply running:
+
+```
+sudo add-apt-repository ppa:icpc-latam/maratona-linux
+sudo apt-get install maratona-desktop
+```
+
+If some error occurs or if you have some request, please open a ticket
+within the git repository of the package.
+
+Below it is specified what packages are provided in each repository:
+
+- maratona-background:
+ - maratona-background
+
+- maratona-meta:
+ - maratona-desktop;
+ - maratona-conflitos;
+ - maratona-essential;
+ - maratona-usuario-icpc
+
+- maratona-team-tools:
+ - maratona-linguagens
+ - maratona-linguagens-doc
+ - maratona-editores
+
+- maratona-firewall:
+ - maratona-firewall
+
+- maratona-submission:
+ - maratona-submission
