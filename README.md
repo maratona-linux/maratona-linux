@@ -35,11 +35,17 @@ Below it is specified what packages are provided in each repository:
     - maratona-conflitos;
     - maratona-essential;
     - maratona-usuario-icpc
+    - maratona-desktop-latam
+    - maratona-task-data
+    - maratona-flatpak-common
 
 - maratona-team-tools:
     - maratona-linguagens
     - maratona-linguagens-doc
     - maratona-editores
+    - maratona-editores-flatpak
+    - maratona-vscode-extensions
+    - maratona-kotlin-doc
 
 - maratona-firewall:
     - maratona-firewall
