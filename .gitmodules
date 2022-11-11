@@ -18,3 +18,12 @@
 	path = maratona-team-tools
 	url = git@github.com:maratona-linux/maratona-team-tools.git
 	branch = master
+[submodule "maratona-flatpak-common"]
+	path = maratona-flatpak-common
+	url = git@github.com:maratona-linux/maratona-flatpak-common.git
+[submodule "maratona-usuario-icpc"]
+	path = maratona-usuario-icpc
+	url = git@github.com:maratona-linux/maratona-usuario-icpc.git
+[submodule "maratona-kairos"]
+	path = maratona-kairos
+	url = git@github.com:maratona-linux/maratona-kairos.git

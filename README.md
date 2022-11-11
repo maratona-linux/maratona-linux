@@ -27,28 +27,22 @@ within the git repository of the package.
 
 Below it is specified what packages are provided in each repository:
 
-- maratona-background:
-    - maratona-background
-
-- maratona-meta:
-    - maratona-desktop;
-    - maratona-conflitos;
-    - maratona-essential;
-    - maratona-usuario-icpc
+- maratona-background
+- maratona-firewall
+- maratona-flatpak-common
+- maratona-kairos
+- maratona-meta
+    - maratona-desktop
+    - maratona-conflitos
+    - maratona-essential
     - maratona-desktop-latam
     - maratona-task-data
-    - maratona-flatpak-common
-
-- maratona-team-tools:
+- maratona-submission
+- maratona-team-tools
     - maratona-linguagens
     - maratona-linguagens-doc
     - maratona-editores
     - maratona-editores-flatpak
     - maratona-vscode-extensions
     - maratona-kotlin-doc
-
-- maratona-firewall:
-    - maratona-firewall
-
-- maratona-submission:
-    - maratona-submission
+- maratona-usuario-icpc
