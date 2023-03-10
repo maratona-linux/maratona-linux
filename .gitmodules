@@ -27,3 +27,6 @@
 [submodule "maratona-intellij-idea"]
 	path = maratona-intellij-idea
 	url = https://gitlab.com/maratona-linux/maratona-intellij-idea.git
+[submodule "maratona-intellij-pycharm"]
+	path = maratona-intellij-pycharm
+	url = https://gitlab.com/maratona-linux/maratona-intellij-pycharm.git
