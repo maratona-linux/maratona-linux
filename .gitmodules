@@ -30,3 +30,6 @@
 [submodule "maratona-intellij-pycharm"]
 	path = maratona-intellij-pycharm
 	url = https://gitlab.com/maratona-linux/maratona-intellij-pycharm.git
+[submodule "maratona-visual-studio-code"]
+	path = maratona-visual-studio-code
+	url = https://gitlab.com/maratona-linux/maratona-visual-studio-code.git
