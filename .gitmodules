@@ -33,3 +33,6 @@
 [submodule "maratona-visual-studio-code"]
 	path = maratona-visual-studio-code
 	url = https://gitlab.com/maratona-linux/maratona-visual-studio-code.git
+[submodule "maratona-intellij-clion"]
+	path = maratona-intellij-clion
+	url = https://gitlab.com/maratona-linux/maratona-intellij-clion.git
