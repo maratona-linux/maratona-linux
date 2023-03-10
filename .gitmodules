@@ -24,3 +24,6 @@
 [submodule "maratona-kairos"]
 	path = maratona-kairos
 	url = git@github.com:maratona-linux/maratona-kairos.git
+[submodule "maratona-intellij-idea"]
+	path = maratona-intellij-idea
+	url = https://gitlab.com/maratona-linux/maratona-intellij-idea.git
