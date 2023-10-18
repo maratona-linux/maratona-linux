@@ -36,3 +36,6 @@
 [submodule "maratona-intellij-clion"]
 	path = maratona-intellij-clion
 	url = https://gitlab.com/maratona-linux/maratona-intellij-clion.git
+[submodule "maratona-fancy-tools"]
+	path = maratona-fancy-tools
+	url = https://github.com/maratona-linux/maratona-fancy-tools.git
