@@ -62,18 +62,18 @@ The following packages are provided in each repository:
 - maratona-intellij-pycharm
 - maratona-kairos
 - maratona-meta
-  - maratona-desktop
-  - maratona-conflitos
-  - maratona-essential
-  - maratona-desktop-latam
-  - maratona-task-data
+    - maratona-desktop
+    - maratona-conflitos
+    - maratona-essential
+    - maratona-desktop-latam
+    - maratona-task-data
 - maratona-submission
 - maratona-team-tools
-  - maratona-linguagens
-  - maratona-linguagens-doc
-  - maratona-editores
-  - maratona-editores-external
-  - maratona-vscode-extensions
-  - maratona-kotlin-doc
+    - maratona-linguagens
+    - maratona-linguagens-doc
+    - maratona-editores
+    - maratona-editores-external
+    - maratona-vscode-extensions
+    - maratona-kotlin-doc
 - maratona-usuario-icpc
 - maratona-visual-studio-code
