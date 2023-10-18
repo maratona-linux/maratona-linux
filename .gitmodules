@@ -16,7 +16,7 @@
 	branch = master
 [submodule "maratona-team-tools"]
 	path = maratona-team-tools
-	url = https://github.com/maratona-linux/maratona-team-tools.git
+	url = https://gitlab.com/maratona-linux/maratona-team-tools.git
 	branch = master
 [submodule "maratona-usuario-icpc"]
 	path = maratona-usuario-icpc
